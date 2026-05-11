@@ -1,0 +1,7 @@
+g++ -fopenmp filename.cpp -o test
+./reduction
+
+g++ -fopenmp filename.cpp -o filename
+./filename
+
+
